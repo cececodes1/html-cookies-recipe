@@ -79,7 +79,3 @@ The assignment focuses on practicing the use of HTML tags for text formatting, l
 - Link to the full recipe: [Classic Chocolate Chip Cookies](https://www.ghirardelli.com/recipes/classic-chocolate-chip-cookies-rec1016)
 - Delicious Image: A picture of the chocolate chip cookies is displayed on the page.
 - Special Characters: The HTML special character `&ndash;` is used for the dash in the paragraph.
-
-## License
-
-This project is for educational purposes only and is part of a Coding Temple bootcamp assignment.
